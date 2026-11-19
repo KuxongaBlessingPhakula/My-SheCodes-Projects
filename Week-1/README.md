@@ -1,4 +1,4 @@
-# Week 1: Introduction to Web Development
+# 💻 Week 1: Introduction to Web Development
 
 Welcome to Week 1 of my SheCodes coding journey!
 
@@ -6,7 +6,7 @@ During my first week, I was introduced to the fundamentals
 of web development and learned how to build and style
 web pages using HTML and CSS.
 
-## What I Learned
+## 📚 What I Learned
 
 ### 1. Introduction to Coding
 - Getting to know my instructor
@@ -39,7 +39,7 @@ Weather App project.
 
 [View My Weather App](https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/153/980/original/homework.html?1711262001)
 
-## Key Takeaways
+## 🎯 Key Takeaways
 
 Week 1 gave me a foundation in HTML and CSS.
 I learned how to structure web pages, apply styling,
@@ -48,7 +48,7 @@ work with colours and spacing, and use developer tools.
 I also gained practical experience using a coding editor
 and applying the concepts I learned.
 
-## Next Steps
+## 🚀 Next Steps
 
 Continue developing my web development skills
 and explore more advanced coding concepts in Week 2.
