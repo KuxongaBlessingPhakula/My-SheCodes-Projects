@@ -1,4 +1,4 @@
-# Week 2: Introduction to JavaScript
+# 🚀 Week 2: Introduction to JavaScript
 
 Welcome to Week 2 of my SheCodes coding journey!
 
@@ -9,7 +9,7 @@ interactive and dynamic.
 I learned how to write JavaScript code, work with
 variables, create functions and respond to user actions.
 
-## What I Learned
+## 📚 What I Learned
 
 ### 1. JavaScript Fundamentals
 - JavaScript in the browser
@@ -26,14 +26,14 @@ variables, create functions and respond to user actions.
 - JavaScript events
 - JavaScript refactoring
 
-## My Week 2 Project: Weather App
+## 🌦️ My Week 2 Project: Weather App
 
 As part of my practical learning, I worked on
 a Weather App project using JavaScript concepts.
 
 [View My Week 2 Weather App](https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/160/730/original/homeworkjava.html?1711606425)
 
-## Key Takeaways
+## 🎯 Key Takeaways
 
 Week 2 helped me understand how JavaScript brings
 websites to life.
@@ -45,7 +45,7 @@ HTML elements using JavaScript.
 I also gained experience working with events
 and improving code through refactoring.
 
-## Next Steps
+## 🚀 Next Steps
 
 Continue developing my programming skills,
 strengthen my understanding of JavaScript
